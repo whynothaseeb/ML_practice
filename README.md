@@ -72,3 +72,6 @@ print(predictions, accuracy)
 print("Actual value: ", y[10])
 print("Predicted value: ", knn.predict(X)[10])
 ```
+
+## 2 - SVM
+Support Vector Machine is a supervised machine learning model used for classification and regression tasks. It finds the best boundary (hyperplane) separating two classes. It is useful for binary classification.
